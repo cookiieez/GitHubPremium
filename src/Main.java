@@ -22,5 +22,6 @@ public class Main {
                 "⠀⠀⠀⠀⠀⣀⣿⣿\n" +
                 "⠀⠀⠀⠀⣶⠿⠿⠛");
         System.out.println("Pimmelberger");
+        System.out.println("NEIN");
     }
 }
