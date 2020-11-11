@@ -21,5 +21,6 @@ public class Main {
                 "⠀⠒⠿⠛⠉⠿⣿\n" +
                 "⠀⠀⠀⠀⠀⣀⣿⣿\n" +
                 "⠀⠀⠀⠀⣶⠿⠿⠛");
+        System.out.println("Pimmelberger");
     }
 }
